@@ -101,3 +101,4 @@ int main() {
     Kasir.run();
     return 0;
 }
+//komen justin
