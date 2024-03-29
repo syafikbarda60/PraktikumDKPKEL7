@@ -1,0 +1,17 @@
+#penggunaan Fungsi
+
+Nama_fungsi (parameter){
+  pernyataan/perintah
+  pernyataan/perintah
+  pernyataan/perintah
+}
+<nama_fungsi>(<parameter>)
+
+#penggunaan Method
+Class <nama_kelas>{
+Public:
+	<method>(<parameter>){
+		//perintah
+		}
+}
+<objek>.<method>(<parameter>)
